@@ -9,7 +9,7 @@ import brain
 # USER INPUT SECTION STARTS
 
 myLocation = "salem"
-APIKEY = "a-4nvo4w-7ernaea3o1"
+APIKEY = "89c5555fdfc2d13eaec579cf3d647a2a"
 
 localityInfo = {
     "schools" : {
